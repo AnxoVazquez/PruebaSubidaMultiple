@@ -16,6 +16,7 @@ public class PruebaSubidaMultiple1 {
      */
     public static void main(String[] args) {
         int prueba1= 0;
+        int adios;
     
 }
 }
